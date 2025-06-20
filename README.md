@@ -17,8 +17,8 @@ CharDetect_&_Divide/
 │   └── __init__.py
 ├── train/                # 训练相关代码
 │   ├── data/               # 数据集工具和预处理脚本
-│   ├── src/                # 模型训练逻辑
-│   └── main.py             # 主训练脚本
+│   └── src/                # 模型训练逻辑
+│        └── main.py        # 主训练脚本
 ├── front/                # 前端界面
 ├── paper/                # 研究报告
 ├── app.py                # Flask 后端服务入口
