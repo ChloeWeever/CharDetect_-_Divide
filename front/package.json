@@ -1,0 +1,36 @@
+{
+  "name": "next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/material": "^7.1.0",
+    "@tabler/icons-react": "^3.33.0",
+    "axios": "^1.10.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.511.0",
+    "mini-svg-data-uri": "^1.4.4",
+    "motion": "^12.13.0",
+    "next": "15.3.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-dropzone": "^14.3.8",
+    "tailwind-merge": "^3.3.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.2",
+    "tailwindcss": "^4",
+    "tw-animate-css": "^1.3.0"
+  }
+}
